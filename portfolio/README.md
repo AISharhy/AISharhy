@@ -9,6 +9,7 @@ Welcome! This portfolio accompanies my [GitHub profile](../../README.md). It doc
 | Area | What you'll find | Status |
 | --- | --- | --- |
 | [SOC L1 Toolkit](soc-toolkit/README.md) | Triage checklist, investigation query cookbook and handoff example | Study material / untested queries |
+| [Wazuh Detection Lab](wazuh-detection-lab/README.md) | Windows Security / Sysmon ingestion and validation plan | Guide published; live tests pending |
 | [SOC Home Lab](soc-home-lab/README.md) | Architecture, safe setup plan, validation checklist | Design / documentation |
 | [SOC Case Studies](soc-case-studies/README.md) | Example alert triage and incident notes | Simulated case studies |
 | [Splunk Investigations](splunk/README.md) | Introductory SPL examples and field assumptions | Example queries; not tested on live data |
