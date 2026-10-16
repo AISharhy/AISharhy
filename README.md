@@ -28,6 +28,7 @@ I'm a Computer Engineering student focused on **Security Operations**, **threat 
 
 | Learning area | Documentation |
 | --- | --- |
+| Wazuh Detection Lab | [Security & Sysmon collection guide](portfolio/wazuh-detection-lab/README.md) |
 | SOC Home Lab | [Architecture & validation checklist](portfolio/soc-home-lab/README.md) |
 | Simulated SOC investigations | [Case studies & report template](portfolio/soc-case-studies/README.md) |
 | Splunk / SPL | [Search examples](portfolio/splunk/README.md) |
