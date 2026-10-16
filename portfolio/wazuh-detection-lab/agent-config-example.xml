@@ -1,0 +1,15 @@
+<!--
+  EDUCATIONAL FRAGMENT ONLY — not a full ossec.conf.
+  Place localfile elements inside the existing <ossec_config> root
+  of the Windows Wazuh agent configuration.
+  Verify support against your installed Wazuh agent version.
+  Do not publish real environment identifiers or credentials.
+-->
+<localfile>
+  <location>Security</location>
+  <log_format>eventchannel</log_format>
+</localfile>
+<localfile>
+  <location>Microsoft-Windows-Sysmon/Operational</location>
+  <log_format>eventchannel</log_format>
+</localfile>
