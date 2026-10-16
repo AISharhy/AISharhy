@@ -22,6 +22,20 @@ I'm a Computer Engineering student focused on **Security Operations**, **threat 
 - Mapping suspicious activity to **MITRE ATT&CK** tactics and techniques.
 - Improving **Splunk SPL**, networking fundamentals, and incident reporting.
 
+## 📂 Cybersecurity Portfolio
+
+**[Explore my Cybersecurity Portfolio →](portfolio/README.md)**
+
+| Learning area | Documentation |
+| --- | --- |
+| SOC Home Lab | [Architecture & validation checklist](portfolio/soc-home-lab/README.md) |
+| Simulated SOC investigations | [Case studies & report template](portfolio/soc-case-studies/README.md) |
+| Splunk / SPL | [Search examples](portfolio/splunk/README.md) |
+| MITRE ATT&CK | [Technique study notes](portfolio/mitre-attack/README.md) |
+| SOC L1 fundamentals | [Technical knowledge base](portfolio/soc-notes/README.md) |
+
+> These are educational notes, lab plans and explicitly simulated scenarios. Practical results will be added when validated.
+
 ## 📁 Cybersecurity Portfolio Roadmap
 
 My upcoming repositories will document work **only after it has been performed and verified**:
