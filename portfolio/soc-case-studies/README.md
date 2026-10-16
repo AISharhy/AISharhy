@@ -2,6 +2,10 @@
 
 **All cases below are fictional training scenarios, not completed investigations.** The purpose is to practise disciplined triage and escalation.
 
+## Published example case
+
+- **[CASE-001 — Windows Failed Logons](CASE-001-windows-failed-logons/README.md)** — complete fictional tabletop investigation, synthetic event CSV, and written analyst report. Live Wazuh validation is pending.
+
 ## Standard alert-triage workflow
 
 1. **Validate:** alert source, time range, affected host, user, rule and telemetry quality.
